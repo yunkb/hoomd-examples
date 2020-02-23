@@ -1,5 +1,5 @@
 # HOOMD-blue example scripts
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yunkb/hoomd-examples/master)
 Welcome to the HOOMD-blue example scripts. These jupyter notebooks demonstrate how to utilize the
 functionality of [HOOMD-blue](http://glotzerlab.engin.umich.edu/hoomd-blue/). You can view a
 [static version of the notebooks online](http://nbviewer.jupyter.org/github/joaander/hoomd-examples/blob/master/index.ipynb).
